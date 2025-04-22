@@ -1,0 +1,79 @@
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\bin\Debug\net7.0\appsettings.json
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\bin\Debug\net7.0\ZooManagement.staticwebassets.runtime.json
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\bin\Debug\net7.0\ZooManagement.staticwebassets.endpoints.json
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\bin\Debug\net7.0\ZooManagement.exe
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\bin\Debug\net7.0\ZooManagement.deps.json
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\bin\Debug\net7.0\ZooManagement.runtimeconfig.json
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\bin\Debug\net7.0\ZooManagement.dll
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\bin\Debug\net7.0\ZooManagement.pdb
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\ZooManagement.csproj.AssemblyReference.cache
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\ZooManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\ZooManagement.AssemblyInfoInputs.cache
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\ZooManagement.AssemblyInfo.cs
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\ZooManagement.csproj.CoreCompileInputs.cache
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\ZooManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\ZooManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\ZooManagement.RazorAssemblyInfo.cache
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\ZooManagement.RazorAssemblyInfo.cs
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\ZooManagement.sourcelink.json
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\scopedcss\bundle\ZooManagement.styles.css
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\scopedcss\projectbundle\ZooManagement.bundle.scp.css
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\staticwebassets\msbuild.ZooManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\staticwebassets\msbuild.ZooManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\staticwebassets\msbuild.build.ZooManagement.props
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ZooManagement.props
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ZooManagement.props
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\ZooManag.0AC0DC49.Up2Date
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\ZooManagement.dll
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\refint\ZooManagement.dll
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\ZooManagement.pdb
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\ZooManagement.genruntimeconfig.cache
+C:\Users\umaha\OneDrive\Рабочий стол\ZooManagement\ZooManagement\obj\Debug\net7.0\ref\ZooManagement.dll
+C:\Users\User\source\repos\ZooManagement\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User\source\repos\ZooManagement\bin\Debug\net7.0\appsettings.json
+C:\Users\User\source\repos\ZooManagement\bin\Debug\net7.0\ZooManagement.staticwebassets.runtime.json
+C:\Users\User\source\repos\ZooManagement\bin\Debug\net7.0\ZooManagement.exe
+C:\Users\User\source\repos\ZooManagement\bin\Debug\net7.0\ZooManagement.deps.json
+C:\Users\User\source\repos\ZooManagement\bin\Debug\net7.0\ZooManagement.runtimeconfig.json
+C:\Users\User\source\repos\ZooManagement\bin\Debug\net7.0\ZooManagement.dll
+C:\Users\User\source\repos\ZooManagement\bin\Debug\net7.0\ZooManagement.pdb
+C:\Users\User\source\repos\ZooManagement\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\User\source\repos\ZooManagement\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\source\repos\ZooManagement\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\source\repos\ZooManagement\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\ZooManagement.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\ZooManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\ZooManagement.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\ZooManagement.AssemblyInfo.cs
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\ZooManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\ZooManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\ZooManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\ZooManagement.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\ZooManagement.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\staticwebassets\msbuild.ZooManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\staticwebassets\msbuild.build.ZooManagement.props
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ZooManagement.props
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ZooManagement.props
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\scopedcss\bundle\ZooManagement.styles.css
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\scopedcss\projectbundle\ZooManagement.bundle.scp.css
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\ZooManagement.csproj.CopyComplete
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\ZooManagement.dll
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\refint\ZooManagement.dll
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\ZooManagement.pdb
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\ZooManagement.genruntimeconfig.cache
+C:\Users\User\source\repos\ZooManagement\obj\Debug\net7.0\ref\ZooManagement.dll
