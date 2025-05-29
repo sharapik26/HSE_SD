@@ -1,0 +1,48 @@
+version: "3.9"
+
+services:
+
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: filestorage
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U admin -d filestorage"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  filestorageservice:
+    build: ./FileStorageService
+    depends_on:
+      postgres:
+        condition: service_healthy
+    ports:
+      - "8081:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    restart: on-failure
+
+  fileanalysisservice:
+    build: ./FileAnalysisService
+    ports:
+      - "8082:80"
+    restart: on-failure
+
+  apigateway:
+    build: ./ApiGateway
+    ports:
+      - "8080:80"
+    depends_on:
+      - filestorageservice
+      - fileanalysisservice
+    restart: on-failure
+
+volumes:
+  pgdata:
