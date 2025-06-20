@@ -1,23 +1,10 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
-</div>
-
-<h1 align="center">Конструирование Программного Обеспечения - КР-3: Асинхронное межсервисное взаимодействие</h1>
-
+Контрольная Работа 3. Насрулаев Шарапудин Махадович.
 ---
 
 ## Функционал
 
 Проект состоит из **четырех независимых сервисов**, каждый из которых упакован в собственный Docker-контейнер и выполняет четко определенную роль.
-<p align="center">
-  <br>
-  <img src="static/imgs/etc1.png" height="300px">  
-</p>
+
 
 ### Frontend (React + Material-UI)
 Десктопное веб-приложение, служащее единой точкой входа для пользователя.
@@ -91,7 +78,7 @@
 
 ## Как запустить проект
 
-1.  **Все просто:**
+1.
     ```bash
     docker-compose up --build -d
     ```
@@ -103,153 +90,5 @@
 
 ---
 
-## Тестирование
+### Программа покрыта тестами
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="static/imgs/tests1.png" width="400"/><br/>
-      <sub>Тестами покрыты ключевая бизнес-логика</sub>
-    </td>
-    <td align="center">
-      <img src="static/imgs/tests2.png" width="400"/><br/>
-      <sub>Тестовое покрытие</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## Swagger
-
-- **API Gateway Swagger UI:** `http://localhost:8000/swagger`
-- **API Payments Swagger UI:** `http://localhost:8001/swagger`
-- **API Orders Swagger UI:** `http://localhost:8002/swagger`
-
-<p align="center">
-  API Gateway Swagger - Orders API
-  <br>
-  <img src="static/imgs/swagger1.png" width="600px">  
-</p>
-
----
-
-<p align="center">
-  API Gateway Swagger - Payments API
-  <br>
-  <img src="static/imgs/swagger2.png" width="600px">  
-</p>
-
----
-
-<p align="center">
-  Успешное создание банковского аккаунта
-  <br>
-  <img src="static/imgs/swagger3.png" width="600px">  
-</p>
-
----
-
-<p align="center">
-  Успешное пополнение банковского счета на 400 у.е.
-  <br>
-  <img src="static/imgs/swagger4.png" width="600px">  
-</p>
-
----
-
-<p align="center">
-  Проверка баланса
-  <br>
-  <img src="static/imgs/swagger5.png" width="600px">  
-</p>
-
----
-
-<p align="center">
-  Создание заказа стоимостью 500 у.е.; Статус заказа - NEW, ожидаем статус CANCELLED
-  <br>
-  <img src="static/imgs/swagger6.png" width="600px">  
-</p>
-
----
-
-<p align="center">
-  Спустя время проверяем статус заказа по его id; Ожидаемый результат совпадает с фактическим - статус CANCELLED (нехватка средств)
-  <br>
-  <img src="static/imgs/swagger7.png" width="600px">  
-</p>
-
----
-
-<p align="center">
-  Создаем новый заказ - стоимость 400 у.е.; Статус заказа - NEW, ожидаем статус FINISHED
-  <br>
-  <img src="static/imgs/swagger8.png" width="600px">  
-</p>
-
----
-
-<p align="center">
-  Проверяем все заказы по user_id; Все верно - один FINISHED заказ и один CANCELLED
-  <br>
-  <img src="static/imgs/swagger9.png" width="600px">  
-</p>
-
----
-
-<p align="center">
-  Проверяем, что баланс пользователя изменился после создания заказов
-  <br>
-  <img src="static/imgs/swagger10.png" width="600px">  
-</p>
-
----
-
-## Frontend
-
-<p align="center">
-  Стартовый экран (баланс 0)
-  <br>
-  <img src="static/imgs/shop1.png" width="600px">  
-</p>
-
----
-
-<p align="center">
-  Пополняем баланс 1000 у.е.
-  <br>
-  <img src="static/imgs/shop2.png" width="600px">  
-</p>
-
----
-
-<p align="center">
-  Совершаем покупку на 1200 у.е. (ожидаем статус CANCELLED)
-  <br>
-  <img src="static/imgs/shop3.png" width="600px">  
-</p>
-
----
-
-<p align="center">
-  Ожидаемый результат совпадает с фактическим, деньги не списались
-  <br>
-  <img src="static/imgs/shop4.png" width="600px">  
-</p>
-
----
-
-<p align="center">
-  Совершаем еще несколько заказов (в сумме на 1000 у.е.); Ожидаем статус FINISHED
-  <br>
-  <img src="static/imgs/shop5.png" width="600px">  
-</p>
-
----
-
-<p align="center">
-  Ожидаемый результат совпадает с фактическим, деньги списались, заказы выполнены
-  <br>
-  <img src="static/imgs/shop6.png" width="600px">  
-</p>
